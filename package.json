@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "A Simple Todo list for remembering things",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mart547n/TODO.git"
+  },
+  "keywords": [
+    "TODO",
+    "Electron"
+  ],
+  "author": "Martin Sig Nørbjerg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mart547n/TODO/issues"
+  },
+  "homepage": "https://github.com/Mart547n/TODO#readme"
+}
